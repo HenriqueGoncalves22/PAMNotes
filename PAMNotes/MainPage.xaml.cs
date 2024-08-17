@@ -34,7 +34,6 @@
                 DisplayAlert("Erro", "Arquivo não encontrado", "Ok");
             }
         }
-
     }
 
 }
